@@ -1,0 +1,1708 @@
+@charset "utf-8";
+
+@media screen and (max-width:1880px) {
+    .box .container {
+        background: url('../image/resbgimg.png') no-repeat center top/cover;
+    }
+
+    .box .container .depth5 .c-content .c-detail {
+        padding-left: 15rem;
+    }
+
+}
+
+@media screen and (max-width:1530px) {
+    html {
+        font-size: 9px;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner {
+        height: 75vh;
+    }
+
+    .box .container .depth9 .depth9inner .catch {
+        margin-bottom: 15rem;
+    }
+}
+
+
+@media screen and (max-width:1390px) {
+    html {
+        font-size: 9px;
+    }
+
+    .box .container .depth3 .logo .l-inner {
+        height: 65vh;
+        margin: 15rem 15rem;
+    }
+
+    .box .container .depth3 .logo .l-inner .logo2 .square {
+        right: -4rem;
+    }
+
+    .box .container .depth4 .d-content {
+        gap: 0rem;
+    }
+}
+
+@media screen and (max-width:1290px) {
+    html {
+        font-size: 9px;
+    }
+
+    .box .container .m-text .m-textinner div p:nth-child(1) {
+        font-family: 'bom2';
+        font-size: 5rem;
+        color: #4a4a4a;
+    }
+
+    .box .container .depth1 .gotopbtn {
+        display: flex;
+        margin-top: 14rem;
+    }
+
+    .box .container .depth2 {
+        margin-bottom: 10rem;
+    }
+
+    .box .container .depth3 .logo .l-inner {
+        margin: 12rem 15rem;
+    }
+
+    .box .container .depth3 .logo .l-inner .logo1 .star {
+        right: -7rem;
+        bottom: 16rem;
+    }
+
+    .box .container .depth4 .depth4inner {
+        margin: 15rem 0;
+    }
+
+    .box .container .depth5 .depth5inner {
+        margin: 0 auto 10rem auto;
+    }
+
+    .box .container .depth8 .depth8inner {
+        margin: 10rem auto 10rem auto;
+    }
+
+    .box .container .depth9 .depth9inner .contact {
+        margin-bottom: 8rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal {
+        gap: 10rem;
+        padding: 6rem;
+    }
+
+
+}
+
+@media screen and (max-width:1290px) {
+    html {
+        font-size: 8px;
+    }
+
+    .box .container .depth1 .menubtn .toparrow {
+        position: fixed;
+        right: 5rem;
+        bottom: 5rem;
+        display: none;
+        z-index: 999;
+    }
+
+    .box .container .depth1 .menubtn .gomenu {
+        position: fixed;
+        bottom: 5rem;
+        right: 6rem;
+        text-align: right;
+        display: none;
+        z-index: 990
+    }
+
+    .box .container .depth3 .logo .l-inner .logo4 .cloud {
+        right: 7rem;
+    }
+}
+
+@media screen and (max-width:1257px) {
+    .box .container .depth2 {
+        margin-top: 7rem;
+    }
+}
+
+@media screen and (max-width:1140px) {
+    html {
+        font-size: 8px;
+    }
+
+    .box .container .depth1 .topline {
+        max-width: 600px;
+    }
+
+    .box .container .depth4 .d-content .d-title {
+        flex: 0 0 25rem;
+        font-size: 3rem;
+        font-weight: 500;
+    }
+
+    .box .container .depth5 .c-content .c-detail {
+        padding-left: 10rem;
+    }
+
+
+    .box .container .depth6 .depth6inner {
+        flex-direction: column;
+        align-items: center;
+        padding: 0 2rem;
+        margin-top: 0;
+    }
+
+    .box .container .depth6 .depth6inner>img {
+        width: 70%;
+        max-width: none;
+    }
+
+    .box .container .depth6 .depth6inner .c6-content {
+        width: 90%;
+        text-align: center;
+    }
+
+    .box .container .depth6 .depth6inner .c6-content .c-detail {
+        display: inline-block;
+        text-align: left;
+        margin-top: 2rem;
+    }
+
+    .box .container .depth6 .sbutton {
+        margin-top: 10rem;
+    }
+
+    .box .container .c6-content .c-detail nav {
+        justify-content: flex-start;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner ul {
+        margin: 0;
+    }
+
+    .box .container .depth8 .depth8inner .clone {
+        width: 30%;
+    }
+
+    .box .container .depth8 .depth8inner {
+        margin: 8rem auto;
+        display: flex;
+        justify-content: center;
+        gap: 10rem;
+    }
+}
+
+
+@media screen and (max-width:1120px) {
+    .box .container .depth3 .logo .l-inner {
+        height: 60vh;
+        margin: 15rem 15rem;
+    }
+}
+
+
+@media screen and (max-width:1100px) {
+    .box .container .depth3 .logo .l-inner {
+        height: 56vh;
+        margin: 10rem 15rem;
+    }
+
+    .box .container .depth3 .logo .l-inner .logo3 .blank {
+        position: absolute;
+        bottom: -8rem;
+        left: 10rem;
+        width: 33%;
+        height: 14%;
+        justify-content: center;
+        padding-top: 3rem;
+    }
+
+    .box .container .depth4 .d-content .d-img {
+        flex: 1 1 36rem;
+        max-width: 36rem;
+    }
+
+    .box .container .depth4 .d-content .d-title {
+        font-size: 2.6rem;
+        flex: 0 0 23rem;
+    }
+
+    .box .container .depth4 .d-content .d-sub {
+        font-size: 2.5rem;
+        flex: 0 0 23rem;
+    }
+
+    .box .container .depth4 .depth4inner .d-content .process img {
+        width: 450px;
+        height: auto;
+    }
+
+    .box .container .depth6 .depth6inner img {
+        width: 50%;
+    }
+
+    .box .container .depth5 .depth5inner .pimg img {
+        width: 70%;
+    }
+
+    .box .container .depth9 .depth9inner .personal {
+        gap: 7rem;
+        padding: 6rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal .contact-item a img {
+        width: 85%;
+    }
+}
+
+@media screen and (max-width:990px) {
+    .box .container .m-text .m-textinner img {
+        width: 14rem;
+        height: 3.8rem;
+    }
+
+    .box .container .m-text .m-textinner div p:nth-child(1) {
+        font-size: 4.5rem;
+    }
+
+    .box .container .m-text .m-textinner div p:nth-child(2) {
+        font-size: 2.2rem;
+    }
+
+    .box .container .depth2 .depth2inner .t-content {
+        line-height: 2.5rem;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner {
+        height: 60vh;
+        margin: 10rem 8rem;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .logo1 .star {
+        bottom: 14rem;
+        right: -6rem;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .logo2 .square {
+        right: -2rem;
+    }
+
+    .box .container .depth4 .d-content .d-title {
+        font-size: 2.5rem;
+    }
+
+    .box .container .depth4 .d-content .d-sub {
+        flex: 0 0 20rem;
+    }
+
+    .box .container .depth4 .d-content .d-img {
+        flex: 1 1 36rem;
+        max-width: 30%;
+        width: 30%;
+    }
+
+    .box .container .depth5 .depth5inner .c-content {
+        width: 100%;
+    }
+
+    .box .container .depth5 .c-content .c-detail {
+        padding-left: 9rem;
+    }
+
+    .box .container .c-content .c-detail {
+        margin: 6rem auto 0 auto;
+        width: 50%;
+    }
+
+    .box .container .depth5 .c-content .c-sub {
+        font-size: 2.2rem;
+    }
+
+    .box .container .depth6 .depth6inner .c6-content .c-detail {
+        padding-left: 7rem;
+    }
+}
+
+
+@media screen and (max-width:937px) {
+    .box .container .babo .profile img {
+        width: 13rem;
+    }
+
+    .box .container .depth2 {
+        margin-top: 17rem;
+    }
+
+    .box .container .depth4 .d-content {
+        gap: 1%;
+    }
+
+    .box .container .depth4 .d-content .d-title {
+        flex: 0 0 20rem;
+    }
+
+    .box .container .depth4 .d-content .d-sub {
+        font-size: 2.3rem;
+    }
+
+    .box .container .c-content .c-detail {
+        width: 60%;
+    }
+
+    .box .container .depth6 .depth6inner img {
+        width: 60%;
+    }
+
+    .box .container .depth9 .depth9inner .catch p:nth-child(1) {
+        font-size: 8rem;
+    }
+
+    .box .container .depth9 .depth9inner .catch .design {
+        font-size: 8rem;
+        margin-top: -5rem;
+    }
+
+    .box .container .depth9 .depth9inner .catch .design p {
+        font-size: 10rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal {
+        gap: 5rem;
+        padding: 6rem;
+    }
+}
+
+@media screen and (max-width:870px) {
+    html {
+        font-size: 8px;
+    }
+
+    .box .container .depth1 .gotopbtn {
+        margin-top: 10rem;
+    }
+
+    .box .container .depth1 .menubtn .toparrow {
+        right: 3.5rem;
+    }
+
+    .box .container .depth1 .menubtn .gomenu {
+        right: 4.5rem;
+    }
+
+    .box .container .depth1 .headline p:nth-child(2) {
+        font-size: 4.2rem;
+        margin-top: -4.2rem;
+    }
+
+    .box .container .babo .profile nav {
+        width: 80%;
+    }
+
+    .box .container .depth2 {
+        margin-top: 12rem;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner {
+        height: 50vh;
+        margin: 10rem 10rem;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .logo1 .star {
+        position: absolute;
+        bottom: 12rem;
+        right: -5rem;
+        width: 47%;
+        height: 28%;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .logo2 .square {
+        position: absolute;
+        top: 7rem;
+        right: 1rem;
+        width: 17%;
+        height: 15%;
+        z-index: 99;
+        font-size: 1.7rem;
+        text-align: center;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .logo3 .blank {
+        position: absolute;
+        bottom: -6rem;
+        left: 8rem;
+        width: 32%;
+        height: 16%;
+        z-index: 99;
+        font-size: 1.7rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-top: 2rem;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .logo4 .cloud {
+        position: absolute;
+        bottom: 0rem;
+        right: 5rem;
+        width: 50%;
+        height: 19%;
+        z-index: 99;
+        font-size: 2rem;
+        color: #4a4a4a;
+        font-family: "gm2";
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .process img {
+        width: 500px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(2) .process img {
+        width: 1800px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(3) .process img {
+        width: 350px;
+    }
+
+    .box .container .depth4 .d-content {
+        width: 100%;
+        gap: 0rem;
+    }
+
+    .box .container .depth5 .c-content .c-sub {
+        font-size: 2.2rem;
+    }
+
+    .box .container .depth5 .c-content .c-detail {
+        padding-left: 6rem;
+    }
+
+    .box .container .depth7 .depth7insight {
+        width: 70%;
+    }
+
+    .box .container .depth7 .depth7insight>p {
+        width: 110px;
+        height: 110px;
+        line-height: 110px;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner .asis li {
+        height: 90px;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner .tobe li {
+        height: 80px;
+    }
+
+    .box .container .depth8 .depth8inner .clone img {
+        border-radius: 4.2rem;
+    }
+}
+
+
+@media screen and (max-width:862px) {
+    .box .container .depth1 .topline p:nth-child(1) {
+        font-size: 1.7rem;
+    }
+
+    .box .container .c-content .c-title img {
+        width: 22%;
+    }
+
+    .box .container .depth4 .depth4inner {
+        margin: 10rem auto;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .process img {
+        width: 430px;
+    }
+}
+
+@media screen and (max-width:806px) {
+    .box .container .m-text {
+        padding-left: 8rem;
+    }
+
+    .box .container .m-text .m-textinner div p:nth-child(1) {
+        font-size: 4.2rem;
+    }
+
+    .box .container .babo .profile nav {
+        width: 100%;
+    }
+
+    .box .container .babo .profile nav .p-answer {
+        width: 28%;
+        font-size: 1.6rem;
+        padding: 2rem 0;
+    }
+
+    .box .container .babo .profile nav .p-title {
+        width: 20%;
+        font-size: 1.7rem;
+        padding: 2rem;
+    }
+
+    .box .container .depth2 .depth2inner {
+        width: 85%;
+    }
+
+    .box .container .depth8 .depth8inner {
+        gap: 7rem;
+        margin: 5rem auto 9rem auto;
+    }
+}
+
+
+
+
+@media screen and (max-width:792px) {
+    .box>p {
+        margin-top: 4rem;
+        font-size: 2.8rem;
+    }
+
+    .box .container {
+        margin-top: 5rem;
+    }
+
+    .box .container .depth1 .topline p:nth-child(1) {
+        font-size: 1.5rem;
+    }
+
+    .box .container .depth1 .topline p:nth-child(2) {
+        top: 2rem;
+    }
+
+    .box .container .depth1 .headline {
+        margin: 17rem 0 0 4rem;
+    }
+
+    .box .container .depth1 .headline p:nth-child(1) {
+        font-size: 7rem;
+    }
+
+    .box .container .depth1 .gotopbtn>ul>li {
+        font-weight: 700;
+        font-size: 2.2rem;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner {
+        height: 50vh;
+        margin: 8rem 8rem;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .process img {
+        width: 430px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(2) .process img {
+        width: 1700px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(3) .process img {
+        width: 330px;
+    }
+
+    .box .container .depth2 .depth2inner {
+        width: 80%;
+    }
+
+    .box .container .c6-content .c-detail {
+        width: 65%;
+    }
+
+    .box .container .depth8 .button a {
+        font-size: 1.6rem;
+        padding: 0.8rem 1.4rem;
+    }
+
+    .box .container .depth8 .m-text {
+        margin-top: 6rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal {
+        gap: 4rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal .contact-item a {
+        line-height: 5rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal .contact-item a img {
+        width: 75%;
+    }
+}
+
+
+@media screen and (max-width:745px) {
+    .box .container .depth1 .topline p:nth-child(1) {
+        font-size: 1.6rem;
+    }
+
+    .box .container .depth1 .topline p:nth-child(2) {
+        font-size: 0.9rem;
+        top: 2.1rem;
+        right: 2rem;
+    }
+
+    .box .container .c-content .c-title p {
+        font-size: 2.5rem;
+    }
+
+    .box .container .depth9 .depth9inner .contact p {
+        font-size: 3.3rem;
+    }
+}
+
+@media screen and (max-width:725px) {
+    .box .container .depth1 .menubtn .toparrow {
+        right: 3.2rem;
+    }
+
+    .box .container .depth1 .menubtn .gomenu {
+        right: 4.4rem;
+    }
+}
+
+@media screen and (max-width:709px) {
+    .box .container .babo .depth3 .logo .l-inner {
+        height: 47vh;
+        margin: 7rem 5rem;
+    }
+
+    .box .container .depth4 .d-content .d-title {
+        font-size: 1.9rem;
+        flex: 0 0 16rem;
+    }
+
+    .box .container .depth4 .d-content .d-sub {
+        font-size: 1.9rem;
+        flex: 0 0 20rem;
+    }
+
+    .box .container .c-content .c-title {
+        font-size: 2.6rem;
+    }
+
+    .box .container .c-content .c-title img {
+        width: 20%;
+    }
+
+    .box .container .depth5 .c-content .c-sub {
+        font-size: 2rem;
+    }
+
+    .box .container .depth7 .depth7insight {
+        width: 80%;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner {
+        gap: 7rem;
+    }
+
+    .box .container .depth7 .depth7text .d7-content {
+        font-size: 2.1rem;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner .asis li {
+        height: 110px;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner .tobe li {
+        height: 100px;
+        font-size: 1.9rem;
+        line-height: 160%;
+    }
+
+    .box .container .depth8 .depth8inner .clone img {
+        border-radius: 3.3rem;
+    }
+
+    .box .container .depth8 .button a {
+        font-size: 1.4rem;
+    }
+}
+
+@media screen and (max-width:692px) {
+    .box .container .depth1 .menubtn .gomenu>li {
+        font-size: 1.8rem;
+    }
+
+    .box .container .depth2 {
+        margin-top: 18rem;
+    }
+
+    .box .container .depth2 .depth2inner {
+        width: 90%;
+    }
+
+    .box .container .depth2 .depth2inner .tools .type {
+        width: 100%;
+        gap: 2rem;
+    }
+
+    .box .container .babo .profile nav .p-title {
+        width: 20%;
+        font-size: 1.7rem;
+        padding: 2rem;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .process img {
+        width: 350px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(3) .process img {
+        width: 330px;
+    }
+
+    .box .container .depth7 .depth7insight {
+        width: 80%;
+    }
+
+    .box .container .depth8 .button a {
+        font-size: 1.6rem;
+        padding: 0.8rem 1.8rem;
+    }
+
+    .box .container .depth9 .depth9inner .line {
+        font-size: 1.8rem;
+    }
+
+    .box .container .depth9 .depth9inner .catch p:nth-child(1) {
+        margin-top: 0;
+    }
+
+    .box .container .depth9 .depth9inner .catch .design p {
+        margin-top: -2rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal {
+        gap: 3rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal .contact-item a {
+        line-height: 4rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal .contact-item .label {
+        font-size: 1.9rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal .contact-item a img {
+        width: 60%;
+    }
+}
+
+
+@media screen and (max-width:682px) {
+    html {
+        font-size: 7px;
+    }
+
+    .box .container .depth1 .headline {
+        margin: 16rem 0 0 3rem;
+    }
+
+    .box .container .depth1 .headline p:nth-child(1) {
+        font-size: 6rem;
+    }
+
+    .box .container .depth1 .gotopbtn>ul>li {
+        font-size: 2rem;
+        font-weight: 600;
+        width: 12rem;
+    }
+
+    .box .container .babo .profile {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .box .container .babo .profile img {
+        display: block;
+        margin: 0 auto;
+        width: 40%;
+    }
+
+    .box .container .babo .profile nav {
+        margin: 0 auto;
+        height: auto;
+    }
+
+    .box .container .depth2 {
+        margin-top: 2rem;
+    }
+
+    .box .container .depth2 .depth2inner {
+        width: 60%;
+    }
+
+    .box .container .depth2 .depth2inner>* {
+        width: 100%;
+        text-align: center;
+    }
+
+    .box .container .depth2 .depth2inner .tools .type {
+        margin: 0 auto;
+        justify-content: center;
+        gap: 5rem;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner {
+        height: auto;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .logo1 .star,
+    .box .container .babo .depth3 .logo .l-inner .logo4 .cloud,
+    .box .container .babo .depth3 .logo .l-inner .logo3 .blank,
+    .box .container .babo .depth3 .logo .l-inner .logo2 .square {
+        display: none;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner>* {
+        margin: 1rem 0;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .logo1 {
+        width: 60%;
+        padding-top: 0;
+        margin: 0 auto 4rem auto;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .logo2 {
+        width: 60%;
+        padding-top: 0;
+        margin: 0 auto 4rem auto;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .logo3 {
+        width: 60%;
+        padding-top: 0;
+        margin: 0 auto 4rem auto;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .logo4 {
+        width: 60%;
+        padding-top: 0;
+        margin: 0 auto;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .logo1 img:nth-child(1) {
+        position: static;
+        width: 100%;
+    }
+
+
+    .box .container .babo .depth3 .logo .l-inner .logo2 img:nth-child(1) {
+        width: 100%;
+        position: static;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .logo3 img:nth-child(1) {
+        position: static;
+        width: 100%;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .logo4 img:nth-child(1) {
+        width: 100%;
+        position: static;
+    }
+
+    .box .container .depth4 .depth4inner {
+        margin: 3rem auto;
+    }
+
+    .box .container .depth5 .m-text {
+        margin-top: 10rem;
+    }
+
+    .box .container .depth6 .depth6inner .c6-content {
+        width: 100%;
+        text-align: center;
+    }
+
+    .box .container .depth7 .depth7text .d7-content {
+        font-size: 1.8rem;
+    }
+
+    .box .container .depth7 .depth7insight>p {
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+        font-size: 2.1rem;
+    }
+
+}
+
+
+@media screen and (max-width:627px) {
+    .box .container .depth1 .headline {
+        margin: 14rem 0 0 3rem;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .process img {
+        width: 310px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content .process img {
+        width: 400px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(2) .process img {
+        width: 1500px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(3) .process img {
+        width: 320px;
+    }
+
+    .box .container .depth4 .d-content .icon {
+        width: 4%;
+        margin: 0 2rem 0 0;
+    }
+
+    .box .container .depth4 .d-content .d-title {
+        font-size: 1.8rem;
+        flex: 0 0 14rem;
+    }
+
+    .box .container .depth4 .d-content .d-sub {
+        font-size: 1.7rem;
+        flex: 0 0 18rem;
+    }
+
+    .box .container .depth5 .depth5inner .pimg img {
+        width: 60%;
+    }
+
+    .box .container .depth6 .depth6inner .c6-content img {
+        width: 28%;
+    }
+
+    .box .container .c-content .c-detail {
+        width: 60%;
+    }
+
+    .box .container .depth7 .depth7text .d7-title {
+        font-size: 2.4rem;
+    }
+
+    .box .container .depth7 .depth7insight>p {
+        width: 90px;
+        height: 90px;
+        line-height: 90px;
+        font-size: 2.1rem;
+    }
+}
+
+@media screen and (max-width:583px) {
+    .box .container .sbutton a {
+        font-size: 1.7rem;
+        padding: 0.8rem 2rem;
+    }
+
+    .box .container .depth1 .topline p:nth-child(1) {
+        font-size: 1.4rem;
+    }
+
+    .box .container .depth1 .gotopbtn>ul>li {
+        font-size: 1.6rem;
+        font-weight: 600;
+        width: 9rem;
+    }
+
+    .box .container .depth1 .gotopbtn ul li .submenu li {
+        width: 8.5rem;
+        font-size: 1.5rem;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .process img {
+        width: 290px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content .process img {
+        width: 380px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(2) .process img {
+        width: 1500px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(3) .process img {
+        width: 310px;
+    }
+
+    .box .container .depth4 .d-content .icon {
+        width: 3%;
+    }
+
+    .box .container .depth4 .d-content .d-title {
+        font-size: 1.6rem;
+        flex: 0 0 12rem;
+    }
+
+    .box .container .depth4 .d-content .d-sub {
+        font-size: 1.6rem;
+        flex: 0 0 15rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal {
+        gap: 1.5rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal .contact-item a {
+        line-height: 3.4rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal .contact-item .label {
+        font-size: 1.6rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal .contact-item a img {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:539px) {
+    .box .container .babo .profile {
+        margin-top: 7rem;
+    }
+
+    .box .container .depth1 .headline {
+        margin-left: 2rem;
+    }
+
+    .box .container .depth1 .headline p:nth-child(1) {
+        font-size: 5rem;
+    }
+
+    .box .container .depth1 .headline p:nth-child(2) {
+        font-size: 4rem;
+        margin: -3.8rem 0 0 1rem;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .process img {
+        width: 280px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content .process img {
+        width: 360px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(2) .process img {
+        width: 1400px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(3) .process img {
+        width: 290px;
+    }
+
+    .box .container .c-content .c-title {
+        font-size: 2rem;
+        margin-top: 0;
+    }
+
+    .box .container .depth5 .c-content .c-sub {
+        font-size: 1.8rem;
+    }
+
+
+    .box .container .c6-content .c-detail {
+        width: 70%;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner .asis li {
+        height: 104px;
+        font-size: 1.9rem;
+        line-height: 160%;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner ul:nth-child(2) img {
+        margin-top: -4rem;
+    }
+
+    .box .container .depth8 .depth8inner .clone img {
+        border-radius: 3rem;
+    }
+
+    .box .container .depth8 .depth8inner {
+        gap: 4rem;
+        margin: 5rem auto 9rem auto;
+    }
+
+    .box .container .depth8 .depth8inner .clone {
+        gap: 3rem;
+    }
+
+    .box .container .depth8 .button a {
+        font-size: 1.3rem;
+        padding: 0.8rem 1.5rem;
+    }
+
+    .box .container .depth9 .depth9inner .catch p:nth-child(1) {
+        font-size: 7rem;
+    }
+
+    .box .container .depth9 .depth9inner .catch .design {
+        font-size: 7rem;
+        margin-top: -5rem;
+    }
+
+    .box .container .depth9 .depth9inner .catch .design p {
+        margin-top: -0.5rem;
+    }
+}
+
+@media screen and (max-width:526px) {
+
+    .box .container .depth1 .menubtn .toparrow {
+        right: 3rem;
+    }
+
+    .box .container .depth1 .menubtn .gomenu {
+        right: 3.9rem;
+        bottom: 6rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal {
+        gap: 0rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal .contact-item .label {
+        font-size: 1.4rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal .contact-item a img {
+        width: 45%;
+    }
+}
+
+@media screen and (max-width:515px) {
+    .box>p {
+        font-size: 2.3rem;
+    }
+
+    .box .container .depth1 .gotopbtn>ul>li {
+        font-size: 1.4rem;
+        width: 8rem;
+    }
+
+    .box .container .depth1 .gotopbtn ul li .submenu li {
+        font-size: 1.4rem;
+    }
+
+    .box .container .depth1 .topline p:nth-child(1) {
+        font-size: 1.3rem;
+    }
+
+    .box .container .depth1 .topline p:nth-child(2) {
+        font-size: 0.8rem;
+        top: 2.3rem;
+        right: 2.2rem;
+    }
+
+    .box .container .babo .profile img {
+        width: 35%;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .process img {
+        width: 265px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content .process img {
+        width: 340px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(3) .process img {
+        width: 270px;
+    }
+
+    .box .container .depth4 .d-content .icon {
+        width: 2.5%;
+    }
+
+    .box .container .depth4 .d-content .d-title {
+        font-size: 1.4rem;
+        flex: 0 0 11rem;
+    }
+
+    .box .container .depth4 .d-content .d-sub {
+        font-size: 1.4rem;
+        flex: 0 0 14rem;
+    }
+
+    .box .container .depth6 .sbutton {
+        margin-top: 10rem;
+    }
+
+    .box .container .depth6 .sbutton {
+        margin: 6rem auto 8rem auto;
+    }
+
+    .box .container .depth7 .depth7insight {
+        margin-top: 8rem;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner {
+        gap: 3rem;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner .asis li {
+        font-size: 1.7rem;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner .tobe li {
+        font-size: 1.6rem;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner ul:nth-child(2) img {
+        width: 2rem;
+    }
+
+    .box .container .depth8 .m-text {
+        margin-top: 0rem;
+    }
+
+    .box .container .depth9 .depth9inner .line p::before {
+        flex-grow: 8;
+        margin-right: 10px;
+    }
+
+    .box .container .depth9 .depth9inner .line p::after {
+        flex-grow: 3;
+        margin-left: 10px;
+    }
+}
+
+@media screen and (max-width:506px) {
+    .box .container .sbutton {
+        margin: 2rem auto 6rem auto;
+    }
+
+    .box .container .c-content .c-detail {
+        width: 70%;
+    }
+
+    .box .container .depth6 .depth6inner .c6-content .c-detail {
+        margin-top: 4rem;
+    }
+
+    .box .container .c-content .c-detail .c1 {
+        font-size: 1.9rem;
+        width: 35%;
+    }
+
+    .box .container .c-content .c-detail .c2 {
+        font-size: 1.7rem;
+        width: 60%;
+    }
+
+    .box .container .c6-content .c-title {
+        margin: 0;
+    }
+
+    .box .container .depth6 .depth6inner .c6-content img {
+        width: 25%;
+    }
+
+    .box .container .depth6 .sbutton {
+        margin-top: 5rem;
+    }
+
+    .box .container .depth7 {
+        margin-top: 5rem;
+    }
+
+    .box .container .depth7 .depth7text {
+        margin-top: 8rem;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .box .container .depth1 .menubtn .toparrow {
+        right: 2.8rem;
+    }
+
+    .box .container .depth1 .menubtn .gomenu {
+        right: 3.7rem;
+        bottom: 6rem;
+    }
+
+    .box .container .m-text .m-textinner div p:nth-child(1) {
+        font-size: 3.8rem;
+    }
+
+    .box .container .m-text .m-textinner div p:nth-child(2) {
+        font-size: 2.1rem;
+    }
+
+    .box .container .depth1 .topline p:nth-child(1) {
+        font-size: 1.1rem;
+    }
+
+    .box .container .depth1 .topline p:nth-child(2) {
+        font-size: 0.6rem;
+    }
+
+    .box .container .depth1 .headline p:nth-child(1) {
+        font-size: 4.5rem;
+    }
+
+    .box .container .depth1 .headline p:nth-child(2) {
+        font-size: 3.6rem;
+        margin-top: -3rem;
+    }
+
+    .box .container .babo .profile nav .p-profile {
+        font-size: 2.3rem;
+    }
+
+    .box .container .babo .profile nav .p-title {
+        width: 18%;
+        font-size: 1.4rem;
+        padding: 1.4rem;
+    }
+
+    .box .container .babo .profile nav .p-answer {
+        width: 32%;
+        font-size: 1.4rem;
+        padding: 1.4rem;
+    }
+
+
+    .box .container .depth2 .t-title {
+        font-size: 2.2rem;
+        margin: 5rem 0 2rem 0;
+    }
+
+    .box .container .depth2 .depth2inner .tools .type {
+        gap: 3.5rem;
+    }
+
+    .box .container .depth2 .depth2inner .t-content {
+        line-height: 2.4rem;
+        font-size: 1.5rem;
+    }
+
+    .box .container .babo .depth3 .logo .l-inner .process img {
+        width: 250px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content .process img {
+        width: 330px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(3) .process img {
+        width: 250px;
+    }
+
+    .box .container .c-content .c-title p {
+        font-size: 2.2rem;
+    }
+
+    .box .container .c-content .c-title img {
+        width: 18%;
+    }
+
+    .box .container .depth5 .depth5inner .c-content {
+        margin: 0 auto;
+    }
+
+    .box .container .depth7 .depth7insight {
+        margin-top: 5rem;
+    }
+
+    .box .container .depth7 .depth7insight>p {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+    }
+
+    .box .container .depth7 .depth7text .d7-title {
+        font-size: 2.2rem;
+    }
+
+    .box .container .depth8 .depth8inner {
+        flex-direction: column;
+        align-items: center;
+        gap: 4rem;
+        margin-top: 6rem;
+    }
+
+    .box .container .depth8 .depth8inner .clone {
+        gap: 2rem;
+        width: 50%;
+    }
+
+    .box .container .depth8 .button a {
+        font-size: 1.6rem;
+    }
+}
+
+@media screen and (max-width:454px) {
+
+    .box .container .depth1 .menubtn .toparrow {
+        right: 2.7rem;
+    }
+
+    .box .container .depth1 .menubtn img {
+        height: 14rem;
+    }
+
+    .box .container .depth1 .menubtn .gomenu {
+        right: 3.5rem;
+        bottom: 5.5rem;
+    }
+
+    .box .container .depth1 .menubtn .gomenu>li {
+        font-size: 1.6rem;
+    }
+}
+
+@media screen and (max-width:436px) {
+    .box .container .depth1 .menubtn .toparrow {
+        right: 2.4rem;
+    }
+
+    .box .container .depth1 .menubtn img {
+        height: 13rem;
+    }
+
+    .box .container .depth1 .menubtn .gomenu {
+        right: 2.6rem;
+        bottom: 5.5rem;
+    }
+
+    .box .container .depth1 .menubtn .gomenu>li {
+        font-size: 1.5rem;
+    }
+
+    .box .container .depth1 .headline p:nth-child(2) {
+        font-size: 3.4rem;
+    }
+
+    .box .container .m-text .m-textinner img {
+        width: 10rem;
+        height: 3rem;
+    }
+
+    .box .container .m-text .m-textinner div p:nth-child(1) {
+        font-size: 3.2rem;
+    }
+
+    .box .container .m-text .m-textinner div p:nth-child(2) {
+        font-size: 1.8rem;
+    }
+
+    .box .container .depth3 .logo .l-inner .process img {
+        width: 230px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content .process img {
+        width: 300px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(2) .process img {
+        width: 1300px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(3) .process img {
+        width: 230px;
+    }
+
+    .box .container .c-content .c-detail {
+        width: 80%;
+    }
+
+    .box .container .c-content .c-detail .c1 {
+        font-size: 1.6rem;
+    }
+
+    .box .container .c-content .c-detail .c2 {
+        font-size: 1.5rem;
+    }
+
+    .box .container .depth5 .c-content .c-sub,
+    .box .container .depth7 .depth7text .d7-content {
+        font-size: 1.5rem;
+        line-height: 3.5rem;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner ul {
+        font-size: 1.7rem;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner ul:nth-child(2) img {
+        width: 1.8rem;
+        margin-top: -1rem;
+    }
+
+    .box .container .depth7 .depth7insight>p {
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+        font-size: 2rem;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner .tobe li {
+        height: 90px;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner .asis li {
+        font-size: 1.6rem;
+        height: 90px;
+    }
+
+    .box .container .depth9 .depth9inner .line {
+        font-size: 1.5rem;
+        margin-bottom: 10rem;
+    }
+
+    .box .container .depth9 .depth9inner .catch p:nth-child(1),
+    .box .container .depth9 .depth9inner .catch .design {
+        font-size: 6rem;
+    }
+
+    .box .container .depth9 .depth9inner .contact {
+        margin-bottom: 5rem;
+    }
+
+    .box .container .depth9 .depth9inner .contact p {
+        font-size: 2.8rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal .contact-item .label {
+        font-size: 1.3rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal .contact-item a {
+        line-height: 3rem;
+    }
+
+    .box .container .depth9 .depth9inner .personal .contact-item a img {
+        width: 40%;
+    }
+
+}
+
+@media screen and (max-width:413px) {
+    html {
+        font-size: 6px;
+    }
+
+    .box .container {
+        margin-top: 4rem;
+    }
+
+    .box .container .depth1 .topline {
+        padding-top: 16px;
+    }
+
+    .box .container .depth2 {
+        margin-bottom: 10rem;
+    }
+
+    .box .container .depth3 .logo .l-inner .process img {
+        width: 215px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content .process img {
+        width: 250px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(2) .process img {
+        width: 1200px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(3) .process img {
+        width: 220px;
+    }
+
+    .box .container .depth7 .depth7text .d7-title {
+        font-size: 2rem;
+    }
+
+    .box .container .depth5 .c-content .c-sub,
+    .box .container .depth7 .depth7text .d7-content {
+        margin-top: 4rem;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner .asis li {
+        font-size: 1.6rem;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner .tobe li {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width:375px) {
+    .box .container .depth3 .logo .l-inner .process img {
+        width: 200px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content .process img {
+        width: 270px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(2) .process img {
+        width: 1100px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(3) .process img {
+        width: 200px;
+    }
+
+    .box .container .depth7 .depth7insight .i-inner {
+        gap: 2rem;
+    }
+}
+
+@media screen and (max-width:354px) {
+    .box .container .depth1 .topline p:nth-child(2) {
+        font-size: 0.5rem;
+    }
+
+    .box .container .depth1 .headline p:nth-child(2) {
+        font-size: 3.2rem;
+    }
+
+    .box .container .babo .profile nav .p-profile {
+        font-size: 2rem;
+    }
+
+    .box .container .babo .profile nav .p-title {
+        font-size: 1.2rem;
+    }
+
+    .box .container .babo .profile nav .p-title {
+        font-size: 1.2rem;
+    }
+
+    .box .container .depth3 .logo .l-inner .process img {
+        width: 180px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content .process img {
+        width: 250px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(2) .process img {
+        width: 1100px;
+    }
+
+    .box .container .depth4 .depth4inner .d-content:nth-child(3) .process img {
+        width: 190px;
+    }
+}
