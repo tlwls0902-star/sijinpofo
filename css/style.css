@@ -907,7 +907,7 @@ body {
 
 .box .container .depth8 .depth8inner {
     width: 80%;
-    margin: 10rem auto 20rem auto;
+    margin: 10rem auto 15rem auto;
     display: flex;
     justify-content: center;
     gap: 16rem;
@@ -966,7 +966,7 @@ body {
     font-family: "Petit Formal Script", cursive;
     font-size: 2rem;
     color: #464646;
-    margin-bottom: 15rem;
+    margin-bottom: 12rem;
 }
 
 .box .container .depth9 .depth9inner .line p {
@@ -991,22 +991,20 @@ body {
     margin-right: 15px;
 }
 
-
-
 .box .container .depth9 .depth9inner .catch {
     text-align: center;
-    margin-bottom: 15rem;
+    margin-bottom: 10rem;
 }
 
 .box .container .depth9 .depth9inner .catch p:nth-child(1) {
     font-family: 'bom2';
-    font-size: 10rem;
+    font-size: 9rem;
     color: #5e5e5e;
 }
 
 .box .container .depth9 .depth9inner .catch .design {
     font-family: "Petit Formal Script", cursive;
-    font-size: 10rem;
+    font-size: 8rem;
     color: #DFAFB3;
     display: flex;
     align-items: flex-start;
@@ -1017,7 +1015,7 @@ body {
 
 .box .container .depth9 .depth9inner .catch .design p {
     font-family: "Petit Formal Script", cursive;
-    font-size: 15rem;
+    font-size: 13rem;
     color: #DFAFB3;
     margin-top: -3rem;
     font-weight: 600;
@@ -1026,7 +1024,7 @@ body {
 .box .container .depth9 .depth9inner .contact {
     text-align: center;
     animation: contact .6s infinite alternate running;
-    margin-bottom: 10rem;
+    margin-bottom: 2.5rem;
 }
 
 @keyframes contact {
@@ -1041,7 +1039,7 @@ body {
 
 .box .container .depth9 .depth9inner .contact p {
     font-family: 'gm3';
-    font-size: 4rem;
+    font-size: 3rem;
     color: #a8a8a8;
 }
 
@@ -1054,8 +1052,8 @@ body {
     display: flex;
     justify-content: center;
     gap: 14rem;
-    padding: 7rem;
-    border-top: 4px dotted #d1d1d1;
+    padding: 9rem 0 27rem 0;
+    border-top: 3px dotted #d1d1d1;
 }
 
 .box .container .depth9 .depth9inner .personal .contact-item {
@@ -1074,6 +1072,6 @@ body {
     font-size: 3rem;
     writing-mode: vertical-rl;
     font-weight: 600;
-    margin-top: 3rem;
+    margin-top: 5rem;
 
 }
